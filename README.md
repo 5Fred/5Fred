@@ -19,7 +19,7 @@ Feel free to explore more in my repositories!
 ## 📫 Let's Connect
 
 
-- Instagram: @e._smash https://www.instagram.com/el._smash/
+- Instagram: @el._smash https://www.instagram.com/el._smash/
 
 ## 💬 Get in Touch
 
