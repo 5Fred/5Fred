@@ -7,7 +7,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about coding, technology, desi
 - 💻 Frontend: HTML, CSS, JavaScript
 - 🚀 Backend: Node.js, Ruby
 - 📱 Mobile: React 
-- 🛢️ Databases: MySQ
+- 🛢️ Databases: MySQL
 - 🧰 Other: Python, C++
 
 ## 🌱 Currently Learning in KCA university. Doing Software engineering.
