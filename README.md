@@ -1,63 +1,58 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Fredrick%20Mwangi&fontSize=70&animation=fadeIn" />
-</p>
+# ⚡ Hello, World! I'm Fredrick Mwangi
 
-# 👋 Hi, I'm Fredrick!
-**Full-Stack Software Developer | Specialized in MERN, PHP & Laravel**
-
-Passionate about building clean, efficient, and user-centric applications. Currently applying my skills at **NCPB** while completing my final year at **KCA University**.
-
----
-
-### 🏆 GitHub Trophies
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=5Fred&theme=tokyonight&no-bg=true&column=7" alt="trophy" />
-  </a>
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Nairobi%2C%20KE-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Education-B.S.%20Software%20Development-orange?style=flat-square" />
 </p>
 
-### 🛠 Tech Stack 
+---
+
+### 👨‍💻 About Me
+I am a **Software Developer** currently completing my final year at **KCA University**. I specialize in building full-stack applications and solving complex problems with code. Currently, I'm gaining hands-on experience in industrial systems and infrastructure at **NCPB**.
+
+* 🔭 **Currently working on:** Refining my [Recipe Finder](https://github.com/5Fred/recipe-finder) and Dashboard reports.
+* 🎓 **Academic focus:** Software Engineering and Applied Computing.
+* 🐧 **System Prefs:** Ubuntu Linux enthusiast & Terminal-based workflows.
+* ⚡ **Fun Fact:** I love turning complex ideas into simple, functional reality.
+
+---
+
+### 🛠 Technologies & Tools
+
+| Category | stack |
+| :--- | :--- |
+| **Frontend** | `HTML5` `CSS3` `JavaScript` `React` `TailwindCSS` |
+| **Backend** | `Node.js` `PHP` `Laravel` `Express` |
+| **Databases** | `MySQL` `MongoDB` |
+| **DevOps & Tools** | `Git` `GitHub` `Ubuntu` `Apache` `Postman` |
+
+---
+
+### 🚀 Top Projects
+
+#### 🍕 [Recipe Finder & Dashboard](https://github.com/5Fred/recipe-finder)
+*A React application integrated with Edamam and TheMealDB APIs, featuring custom reporting modules.*
+
+#### 📦 [Inventory Management System](https://github.com/5Fred/inventory-system)
+*A Java-based solution for tracking stock and sales with a dedicated MySQL backend.*
+
+---
+
+### 📈 GitHub Activity
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,php,laravel,mysql,java,python,ubuntu,git,postman,linux,figma,tailwind" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=5Fred&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="400" />
 </p>
 
 ---
 
-### 📈 GitHub Statistics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=5Fred&show_icons=true&theme=tokyonight&count_private=true" alt="Fred's GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5Fred&layout=compact&theme=tokyonight" alt="Fred's Top Languages" />
-</p>
-
----
-
-### 🐍 My Contributions in Motion
-<p align="center">
-  <img src="https://raw.githubusercontent.com/5Fred/5Fred/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### 📫 Let's Build Something Together
+### 📫 Let's Connect
 <p align="left">
-  <a href="mailto:mwangikingz94@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/58.maxy/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/5Fred">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+  <a href="mailto:mwangikingz94@gmail.com"><img src="https://img.shields.io/badge/Email-mwangikingz94@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/58.maxy/"><img src="https://img.shields.io/badge/Instagram-@el._smash-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=5Fred&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <i>"Writing code that makes a difference."</i>
 </p>
