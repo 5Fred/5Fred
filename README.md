@@ -1,58 +1,41 @@
-# ⚡ Hello, World! I'm Fredrick Mwangi
+# Hi there, I'm Fredrick Mwangi! 👋
+**Software Developer | Final Year B.S. Software Development @ KCA University**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Nairobi%2C%20KE-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Education-B.S.%20Software%20Development-orange?style=flat-square" />
-</p>
+I am a passionate software engineer focused on building scalable web applications and exploring the intersection of design and efficient code. Currently refining my skills in the MERN stack and Laravel while finalizing my undergraduate degree.
 
 ---
 
-### 👨‍💻 About Me
-I am a **Software Developer** currently completing my final year at **KCA University**. I specialize in building full-stack applications and solving complex problems with code. Currently, I'm gaining hands-on experience in industrial systems and infrastructure at **NCPB**.
+### 🛠 Tech Stack & Tools
 
-* 🔭 **Currently working on:** Refining my [Recipe Finder](https://github.com/5Fred/recipe-finder) and Dashboard reports.
-* 🎓 **Academic focus:** Software Engineering and Applied Computing.
-* 🐧 **System Prefs:** Ubuntu Linux enthusiast & Terminal-based workflows.
-* ⚡ **Fun Fact:** I love turning complex ideas into simple, functional reality.
-
----
-
-### 🛠 Technologies & Tools
-
-| Category | stack |
+| Category | Technologies |
 | :--- | :--- |
-| **Frontend** | `HTML5` `CSS3` `JavaScript` `React` `TailwindCSS` |
-| **Backend** | `Node.js` `PHP` `Laravel` `Express` |
-| **Databases** | `MySQL` `MongoDB` |
-| **DevOps & Tools** | `Git` `GitHub` `Ubuntu` `Apache` `Postman` |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 ---
 
-### 🚀 Top Projects
+### 🚀 Featured Projects
 
-#### 🍕 [Recipe Finder & Dashboard](https://github.com/5Fred/recipe-finder)
-*A React application integrated with Edamam and TheMealDB APIs, featuring custom reporting modules.*
-
-#### 📦 [Inventory Management System](https://github.com/5Fred/inventory-system)
-*A Java-based solution for tracking stock and sales with a dedicated MySQL backend.*
+* **[Recipe Finder](https://github.com/5Fred/recipe-finder)** - A React-based web app utilizing Edamam & TheMealDB APIs.
+* **[Inventory Management System](https://github.com/5Fred/inventory-system)** - A full-scale Java & MySQL desktop application.
+* **[NCPB Attachment Portal](https://github.com/5Fred)** - Working on internal tools and system administration.
 
 ---
 
-### 📈 GitHub Activity
+### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=5Fred&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=5Fred&show_icons=true&theme=tokyonight" alt="Fred's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5Fred&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Let's Connect
-<p align="left">
-  <a href="mailto:mwangikingz94@gmail.com"><img src="https://img.shields.io/badge/Email-mwangikingz94@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/58.maxy/"><img src="https://img.shields.io/badge/Instagram-@el._smash-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-</p>
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/58.maxy/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwangikingz94@gmail.com)
 
 ---
-<p align="center">
-  <i>"Writing code that makes a difference."</i>
-</p>
+*"Turning ideas into reality, one commit at a time."*
