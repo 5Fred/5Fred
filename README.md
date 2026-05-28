@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Fredrick Mwangi!
 **Software Engineer | Full-Stack Developer | B.S. Software Development @ KCA University**
 
-I am a passionate software engineer focused on building scalable web applications and exploring the intersection of efficient code and intuitive design. Currently, I am applying my technical skills at the **National Cereals and Produce Board (NCPB)** while finalizing my undergraduate degree.
+I am a passionate software engineer focused on building scalable web applications and exploring the intersection of efficient code and intuitive design. Currently, I am applying my technical skills at the **Karatina University (KarU)** ..
 
 ---
 
 ### 🚀 Professional Profile
-- 🔭 **Currently:** Conducting an industrial attachment at **NCPB**, focused on system administration and software internal tools.
+- 🔭 **Currently:** Conducting an industrial attachment at **KarU**, focused on system administration and software internal tools.
 - 🎓 **Education:** Final Year student at **KCA University** (Graduating Aug 2026).
 - 🛠️ **Projects:** Developing a React-based **Recipe Finder** and a Java-based **Inventory System**.
 - 🐧 **Environment:** Advanced user of **Ubuntu Linux** and terminal-based workflows.
