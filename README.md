@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Fredrick Mwangi!
+# 👋 Hi there, I'm Fredrick Mwangi
 **Software Engineer | Full-Stack Developer | B.S. Software Development @ KCA University**
 
 I am a passionate software engineer focused on building scalable web applications and exploring the intersection of efficient code and intuitive design. Currently, I am applying my technical skills at the **Karatina University (KarU)** ..
